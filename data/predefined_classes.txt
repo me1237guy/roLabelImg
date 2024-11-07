@@ -1,7 +1,3 @@
-ship
-plane
-dog
-person
-cat
-tv
-car
+spot
+top_part
+bot_part

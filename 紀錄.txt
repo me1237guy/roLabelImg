@@ -1,0 +1,7 @@
+2024-11-07
+1. 修改 ./data/predefined_classes.txt
+2. bug fixed:
+   
+   self.zoomWidget.setValue(int(value)) @rotLbabelImg.py
+
+   bar.setValue(int(bar.value() + bar.singleStep() * units)) @rotLbabelImg.py
